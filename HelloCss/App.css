@@ -1,0 +1,54 @@
+p {
+    color: #3b3b06;
+}
+
+p:first-line {
+    color: purple;
+}
+
+p::selection {
+    background-color: darkred;
+    color: wheat;
+}
+
+span.classify {
+    font-size: small;
+    color: wheat;
+    background-color: darkred;
+}
+
+footer ul a {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: brown;
+    text-decoration: underline;
+}
+
+.post button {
+    background-color: #52B788;
+    color: black;
+}
+
+.post button:hover {
+    background-color: Red;
+    color: wheat;
+}
+
+.post button:active {
+    background-color: darkred;
+}
+
+.post:nth-of-type(2n) {
+    background-color: #cbcbcb;
+}
+
+h2::first-letter {
+    color: red;
+}

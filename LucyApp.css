@@ -1,0 +1,40 @@
+h1 {
+    color: #52B788;
+    text-align: center;
+    font-weight: 900;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: #52B788;
+}
+
+a {
+    color:#74C69D;
+    text-decoration: none;
+}
+
+p {
+    color: #D8F3DC;
+    line-height: 2.5;
+}
+
+body {
+    background-color: #081C15;
+}
+
+.tag {
+    background-color: #74C69D;
+    color: #081C15;
+    font-weight: bold;
+}
+
+/* id는 #으로 tag는 그냥, class . ,로 여러개 지정 가능  */
+/* 
+#D8F3DC #B7E4C7 #B7E4C7 #74C69D #52B788 #40916C #2D6A4F #1B4332 #081C15
+*/
+
+label[class="login"] {
+    color: #74C69D;
+}

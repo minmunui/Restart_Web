@@ -1,0 +1,41 @@
+body {
+    font-family: 'Noto Serif KR', serif;
+}
+
+main {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h3 {
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 1em;
+    color: darkred;
+    display: inline;
+}
+
+.nolE {
+
+    font-family: Noto Sans KR, sans-serif;
+}
+
+time.writing_date {
+    margin-left: 4%;
+    font-family: Noto Sans KR, sans-serif;
+    font-size: 0.65rem;
+    text-align: right;
+}
+
+span.writer {
+    margin-left: 4%;
+    font-size: 0.65rem;
+    text-align: right;
+}
+
+article {
+    font-size: 36px;
+}
+
+article p {
+    font-size: 0.65rem;
+}
